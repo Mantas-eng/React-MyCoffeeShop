@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Mantas-eng/React-MyCoffeeShop/static/css/main.f7865910.chunk.css",
+    "main.js": "/Mantas-eng/React-MyCoffeeShop/static/js/main.1acd0815.chunk.js",
+    "main.js.map": "/Mantas-eng/React-MyCoffeeShop/static/js/main.1acd0815.chunk.js.map",
+    "runtime-main.js": "/Mantas-eng/React-MyCoffeeShop/static/js/runtime-main.25ce0432.js",
+    "runtime-main.js.map": "/Mantas-eng/React-MyCoffeeShop/static/js/runtime-main.25ce0432.js.map",
+    "static/css/2.c1a89a62.chunk.css": "/Mantas-eng/React-MyCoffeeShop/static/css/2.c1a89a62.chunk.css",
+    "static/js/2.0fa328b5.chunk.js": "/Mantas-eng/React-MyCoffeeShop/static/js/2.0fa328b5.chunk.js",
+    "static/js/2.0fa328b5.chunk.js.map": "/Mantas-eng/React-MyCoffeeShop/static/js/2.0fa328b5.chunk.js.map",
+    "index.html": "/Mantas-eng/React-MyCoffeeShop/index.html",
+    "precache-manifest.c552d1b5cfd1388f9668cdc6854ede38.js": "/Mantas-eng/React-MyCoffeeShop/precache-manifest.c552d1b5cfd1388f9668cdc6854ede38.js",
+    "service-worker.js": "/Mantas-eng/React-MyCoffeeShop/service-worker.js",
+    "static/css/2.c1a89a62.chunk.css.map": "/Mantas-eng/React-MyCoffeeShop/static/css/2.c1a89a62.chunk.css.map",
+    "static/css/main.f7865910.chunk.css.map": "/Mantas-eng/React-MyCoffeeShop/static/css/main.f7865910.chunk.css.map",
+    "static/js/2.0fa328b5.chunk.js.LICENSE.txt": "/Mantas-eng/React-MyCoffeeShop/static/js/2.0fa328b5.chunk.js.LICENSE.txt",
+    "static/media/aboutBcg.jpeg": "/Mantas-eng/React-MyCoffeeShop/static/media/aboutBcg.a3c08bb0.jpeg",
+    "static/media/contactBcg.jpeg": "/Mantas-eng/React-MyCoffeeShop/static/media/contactBcg.532c5202.jpeg",
+    "static/media/defaultBcg.jpeg": "/Mantas-eng/React-MyCoffeeShop/static/media/defaultBcg.fdc369d8.jpeg",
+    "static/media/mainBcg.jpeg": "/Mantas-eng/React-MyCoffeeShop/static/media/mainBcg.c4c19187.jpeg",
+    "static/media/productsBcg.jpeg": "/Mantas-eng/React-MyCoffeeShop/static/media/productsBcg.a58ffeb3.jpeg",
+    "static/media/singleProductBcg.jpeg": "/Mantas-eng/React-MyCoffeeShop/static/media/singleProductBcg.d8b87dc0.jpeg",
+    "static/media/storeBcg.jpeg": "/Mantas-eng/React-MyCoffeeShop/static/media/storeBcg.46143c2f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25ce0432.js",
+    "static/css/2.c1a89a62.chunk.css",
+    "static/js/2.0fa328b5.chunk.js",
+    "static/css/main.f7865910.chunk.css",
+    "static/js/main.1acd0815.chunk.js"
+  ]
+}
